@@ -91,18 +91,5 @@
 37. Random Resource
 39. Terraform Import 
 
-## What will students learn in your course?
-- You will learn to master Terraform in a Real-world perspective with 22 demo's
-- You will build AWS VPC 3-Tier Architecture using Terraform
-- You will build various Load balancers CLB, ALB and NLB using Terraform
-- You will build  DNS to DB Architecture on AWS using Terraform
-- You will build Autoscaling with Launch Configuration using Terraform
-- You will build Autoscaling with Launch Templates using Terraform
-- You will build AWS CloudWatch Alarms using Terraform
-- You will implement IaC DevOps usecase using AWS CodePipeline for your Terraform Configurations 
-- You will learn in detail about Terrafrom State, Local and Remote Backends. 
-- You will learn and implement all Terraform Provisioners 
-- You will learn and implement Terraform Modules with 2 types (Public Modules and Local Modules)
-
 
 
