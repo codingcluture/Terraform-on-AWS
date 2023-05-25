@@ -105,22 +105,4 @@
 - You will learn and implement Terraform Modules with 2 types (Public Modules and Local Modules)
 
 
-## Are there any course requirements or prerequisites?
-- You must have an AWS Cloud account to follow with me for hands-on activities.
-- You don't need to have any basic knowledge of Terraform. Course will get started from very very basics of Terraform and take you to very advanced levels
 
-## Who are your target students?
-- Infrastructure Architects or Sysadmins or Developers who are planning to master Terraform
-- Any beginner who is interested in learning IaC Infrastructure as Code current trending tool Terraform 
-- Anyone who want to learn Terraform from a Real-World perspective 
-
-## Github Repositories used for this course
-- [HashiCorp Certified: Terraform Associate](https://github.com/stacksimplify/hashicorp-certified-terraform-associate)
-- **Important Note:** Please go to these repositories and FORK these repositories and make use of them during the course.
-
-
-## Each of my courses come with
-- Amazing Hands-on Step By Step Learning Experiences
-- Real Implementation Experience
-- Friendly Support in the Q&A section
-- 30 Day "No Questions Asked" Money Back Guarantee!
